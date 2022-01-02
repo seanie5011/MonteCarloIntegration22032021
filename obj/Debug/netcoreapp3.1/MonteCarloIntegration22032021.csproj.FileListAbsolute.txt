@@ -1,0 +1,13 @@
+C:\Users\seani\source\repos\C#\Numerical\Monte Carlo\MonteCarloIntegration22032021\bin\Debug\netcoreapp3.1\MonteCarloIntegration22032021.exe
+C:\Users\seani\source\repos\C#\Numerical\Monte Carlo\MonteCarloIntegration22032021\bin\Debug\netcoreapp3.1\MonteCarloIntegration22032021.deps.json
+C:\Users\seani\source\repos\C#\Numerical\Monte Carlo\MonteCarloIntegration22032021\bin\Debug\netcoreapp3.1\MonteCarloIntegration22032021.runtimeconfig.json
+C:\Users\seani\source\repos\C#\Numerical\Monte Carlo\MonteCarloIntegration22032021\bin\Debug\netcoreapp3.1\MonteCarloIntegration22032021.runtimeconfig.dev.json
+C:\Users\seani\source\repos\C#\Numerical\Monte Carlo\MonteCarloIntegration22032021\bin\Debug\netcoreapp3.1\MonteCarloIntegration22032021.dll
+C:\Users\seani\source\repos\C#\Numerical\Monte Carlo\MonteCarloIntegration22032021\bin\Debug\netcoreapp3.1\MonteCarloIntegration22032021.pdb
+C:\Users\seani\source\repos\C#\Numerical\Monte Carlo\MonteCarloIntegration22032021\obj\Debug\netcoreapp3.1\MonteCarloIntegration22032021.csprojAssemblyReference.cache
+C:\Users\seani\source\repos\C#\Numerical\Monte Carlo\MonteCarloIntegration22032021\obj\Debug\netcoreapp3.1\MonteCarloIntegration22032021.AssemblyInfoInputs.cache
+C:\Users\seani\source\repos\C#\Numerical\Monte Carlo\MonteCarloIntegration22032021\obj\Debug\netcoreapp3.1\MonteCarloIntegration22032021.AssemblyInfo.cs
+C:\Users\seani\source\repos\C#\Numerical\Monte Carlo\MonteCarloIntegration22032021\obj\Debug\netcoreapp3.1\MonteCarloIntegration22032021.csproj.CoreCompileInputs.cache
+C:\Users\seani\source\repos\C#\Numerical\Monte Carlo\MonteCarloIntegration22032021\obj\Debug\netcoreapp3.1\MonteCarloIntegration22032021.dll
+C:\Users\seani\source\repos\C#\Numerical\Monte Carlo\MonteCarloIntegration22032021\obj\Debug\netcoreapp3.1\MonteCarloIntegration22032021.pdb
+C:\Users\seani\source\repos\C#\Numerical\Monte Carlo\MonteCarloIntegration22032021\obj\Debug\netcoreapp3.1\MonteCarloIntegration22032021.genruntimeconfig.cache
